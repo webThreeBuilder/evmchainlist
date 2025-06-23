@@ -860,6 +860,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/242</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/247</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/248</loc>
 </url>
 <url>
@@ -1002,6 +1005,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/335</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/337</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/338</loc>
@@ -2099,6 +2105,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/1833</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/1848</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/1853</loc>
 </url>
 <url>
@@ -2462,6 +2471,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/2390</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/2391</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/2399</loc>
 </url>
 <url>
@@ -2658,6 +2670,12 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/3270</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/3300</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/3301</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/3306</loc>
@@ -2889,6 +2907,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/4203</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/4207</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/4242</loc>
@@ -3749,6 +3770,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/9728</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/9746</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/9768</loc>
 </url>
 <url>
@@ -4511,6 +4535,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/31611</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/31612</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/31753</loc>
 </url>
 <url>
@@ -4568,6 +4595,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/33469</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/33710</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/33979</loc>
 </url>
 <url>
@@ -4614,6 +4644,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/41923</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/42000</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/42001</loc>
@@ -5759,6 +5792,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/256256</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/258432</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/262371</loc>
 </url>
 <url>
@@ -5982,6 +6018,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/560000</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/560013</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/560048</loc>

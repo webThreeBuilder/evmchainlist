@@ -4826,6 +4826,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/50341</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/50342</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/50505</loc>
 </url>
 <url>
@@ -5384,6 +5387,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <loc>https://evmchainlist.org/chain/98881</loc>
 </url>
 <url>
+<loc>https://evmchainlist.org/chain/98964</loc>
+</url>
+<url>
 <loc>https://evmchainlist.org/chain/98985</loc>
 </url>
 <url>
@@ -5439,6 +5445,12 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/100100</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/100501</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/100610</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/101003</loc>
@@ -6093,6 +6105,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/743111</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/747474</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/751230</loc>
@@ -6813,6 +6828,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/999999999</loc>
+</url>
+<url>
+<loc>https://evmchainlist.org/chain/1000000003</loc>
 </url>
 <url>
 <loc>https://evmchainlist.org/chain/1020352220</loc>
